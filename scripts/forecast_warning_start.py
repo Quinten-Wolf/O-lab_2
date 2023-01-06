@@ -40,7 +40,6 @@ ecreds = AccessTokenCreds(
 )
 eadapter = Adapter(ecreds)
 
-#putting in a change here
 
 # Points in Australia,  Federation Square, Melbourne and Sydney Opera House.
 point_name = ['Federation Square, Melbourne','Sydney Opera House']
